@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Lucky-drop/static/css/main.9a0b5a9c.css",
-    "main.js": "/Lucky-drop/static/js/main.2850e742.js",
-    "static/js/453.84cf0948.chunk.js": "/Lucky-drop/static/js/453.84cf0948.chunk.js",
-    "static/media/도트_네잎클로버_분홍.png": "/Lucky-drop/static/media/도트_네잎클로버_분홍.632cbb6b9c23831c3fbc.png",
-    "static/media/도트_네잎클로버_배경투명.png": "/Lucky-drop/static/media/도트_네잎클로버_배경투명.4866c614ad7f528b3afc.png",
-    "static/media/도트_럭키드롭_배경투명.png": "/Lucky-drop/static/media/도트_럭키드롭_배경투명.da17d5f24a86030ca5d6.png",
-    "static/media/도트_진주알_연분홍.png": "/Lucky-drop/static/media/도트_진주알_연분홍.bb853e7407dd8e1d885c.png",
-    "static/media/도트_리본_연분홍_배경투명.png": "/Lucky-drop/static/media/도트_리본_연분홍_배경투명.ca96565c1f50b36e5cd1.png",
-    "static/media/도트_보석_배경투명.png": "/Lucky-drop/static/media/도트_보석_배경투명.d517798c62493085d016.png",
-    "index.html": "/Lucky-drop/index.html",
-    "main.9a0b5a9c.css.map": "/Lucky-drop/static/css/main.9a0b5a9c.css.map",
-    "main.2850e742.js.map": "/Lucky-drop/static/js/main.2850e742.js.map",
-    "453.84cf0948.chunk.js.map": "/Lucky-drop/static/js/453.84cf0948.chunk.js.map"
+    "main.css": "/lucky-drop/static/css/main.9a0b5a9c.css",
+    "main.js": "/lucky-drop/static/js/main.402dbd4b.js",
+    "static/js/453.84cf0948.chunk.js": "/lucky-drop/static/js/453.84cf0948.chunk.js",
+    "static/media/도트_네잎클로버_분홍.png": "/lucky-drop/static/media/도트_네잎클로버_분홍.632cbb6b9c23831c3fbc.png",
+    "static/media/도트_네잎클로버_배경투명.png": "/lucky-drop/static/media/도트_네잎클로버_배경투명.4866c614ad7f528b3afc.png",
+    "static/media/도트_럭키드롭_배경투명.png": "/lucky-drop/static/media/도트_럭키드롭_배경투명.da17d5f24a86030ca5d6.png",
+    "static/media/도트_진주알_연분홍.png": "/lucky-drop/static/media/도트_진주알_연분홍.bb853e7407dd8e1d885c.png",
+    "static/media/도트_리본_연분홍_배경투명.png": "/lucky-drop/static/media/도트_리본_연분홍_배경투명.ca96565c1f50b36e5cd1.png",
+    "static/media/도트_보석_배경투명.png": "/lucky-drop/static/media/도트_보석_배경투명.d517798c62493085d016.png",
+    "index.html": "/lucky-drop/index.html",
+    "main.9a0b5a9c.css.map": "/lucky-drop/static/css/main.9a0b5a9c.css.map",
+    "main.402dbd4b.js.map": "/lucky-drop/static/js/main.402dbd4b.js.map",
+    "453.84cf0948.chunk.js.map": "/lucky-drop/static/js/453.84cf0948.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a0b5a9c.css",
-    "static/js/main.2850e742.js"
+    "static/js/main.402dbd4b.js"
   ]
 }
